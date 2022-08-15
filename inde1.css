@@ -1,0 +1,40 @@
+h2 {
+    color: sienna;
+    font-size: 45px;
+}
+p {
+    color: rgb(189, 100, 55);
+    font-size: 30px;
+}
+label {
+    color: rgb(160,82,45);
+}
+div {
+    font-size: 12px;
+    color: gray;
+}
+select {
+    border: 2px solid  rgb(196, 194, 194);
+    height: 25px;
+    background-color: #FFFF;
+}
+input {
+    border: 2px solid  rgb(196, 194, 194);
+    height: 25px;
+}
+textarea {
+    border: 2px solid  rgb(196, 194, 194);
+    height: 25px;
+}
+#Abs {
+    color: red;
+}
+button {
+    font-size: 19px;
+    background-color: red;
+    color: #FFFF;
+    border-color: #FFFF;
+}
+a {
+    color: #FFFF;
+}
